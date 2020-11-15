@@ -8,3 +8,8 @@ In computing, a news aggregator, also termed a feed.aggregator, feed reader, new
   <li>Date and Time</li>
   <li>Tkinter- For GUI</li>
 </ol>
+Scope of Improvement:
+<ol>
+  <li> Accepting the path from the user in GUI</li>
+  <li> Accepting News from different resources and fact check using Machine Learning Techniques</li>
+</ol>
