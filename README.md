@@ -6,5 +6,5 @@ In computing, a news aggregator, also termed a feed.aggregator, feed reader, new
 <ol><li>Beautiful Soup</li>
   <li>OS</li>
   <li>Date and Time</li>
-  <li>Tkinter</li>- For GUI
+  <li>Tkinter- For GUI</li>
 </ol>
